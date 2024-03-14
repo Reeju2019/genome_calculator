@@ -1,6 +1,14 @@
 # Prerequisites
 *.d
 
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
 # Object files
 *.o
 *.ko
